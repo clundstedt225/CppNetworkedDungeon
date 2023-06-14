@@ -6,7 +6,7 @@ For our project, me and my teammate wanted to try and create a basic text based 
 
 ## 	:world_map: Project Navigation
 
-All source code [can be found here](https://github.com/clundstedt225/Asteroids247/tree/master/asteroids/DrawingExample/Core).
+Server code [can be found here](https://github.com/clundstedt225/CppNetworkedDungeon/blob/main/Lundstedt_Black_Sockets/UDP/serverOutline/Source.cpp).
 
 ## 	:hammer_and_wrench: Tools & Languages Used
 - Microsoft Visual Studio IDE
