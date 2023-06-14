@@ -15,4 +15,4 @@ Server code (gameplay loop) [can be found here](https://github.com/clundstedt225
 
 ##	:stopwatch: Things I would change if I had more time
 - Reflect the games state clientside
-- Refactor and clean up code 
+- Refactor and de-clutter code (relocate enums to header files etc...)
