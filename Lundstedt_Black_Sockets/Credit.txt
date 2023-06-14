@@ -1,0 +1,2 @@
+Client Programmer: Connor Lundstedt
+Server Programmer: Ryan Black

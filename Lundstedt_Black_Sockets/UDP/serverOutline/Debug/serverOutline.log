@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(106,9): warning C4068: unknown pragma 'pop'
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(313,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(204,6): warning C4101: 'chosenSpell': unreferenced local variable
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(202,6): warning C4101: 'target': unreferenced local variable
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(509,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(623,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(703,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(721,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(731,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(802,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(825): warning C4724: potential mod by 0
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(843): warning C4724: potential mod by 0
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\serverOutline\Source.cpp(861): warning C4724: potential mod by 0
+  serverOutline.vcxproj -> C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\Debug\serverOutline.exe

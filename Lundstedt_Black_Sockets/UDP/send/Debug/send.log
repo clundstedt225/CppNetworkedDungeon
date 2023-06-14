@@ -1,0 +1,3 @@
+﻿  udp_sock_send.cpp
+C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\udp_sock_send.cpp(20,9): warning C4068: unknown pragma 'pop'
+  send.vcxproj -> C:\Users\Connor\Desktop\NHTI\CP252\Lab 5\UDP\Debug\send.exe
