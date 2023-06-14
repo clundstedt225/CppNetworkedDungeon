@@ -1,6 +1,10 @@
 # C++ Networked Dungeon Team Project
 
-This was an open ended team project for a Networking class at NHTI (Developed by Connor Lundstedt and Ryan Black). 
+This was an open ended team project for a Networking class at NHTI. 
+
+Project Team:
+- Connor Lundstedt
+- Ryan Black
 
 For our project, me and my teammate wanted to try and create a basic text based game using what we had learned that semester about C++ and Sockets. Other teams worked on networked programs of their choosing such as a chat room, or tic-tac-toe for example. We ended up settling on a dungeon crawler type game where you choose your class, and can run in to various types of enemies.
 
