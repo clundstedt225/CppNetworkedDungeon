@@ -18,5 +18,5 @@ Server code (gameplay loop) [can be found here](https://github.com/clundstedt225
 - Github for Source Control
 
 ##	:stopwatch: Things I would change if I had more time
-- Reflect the games state clientside
+- Reflect the games state client-side rather than server-side
 - Refactor and de-clutter code (relocate enums to header files etc...)
