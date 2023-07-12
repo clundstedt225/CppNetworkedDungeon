@@ -42,6 +42,7 @@ struct Entity
 	int ToHit;
 	damageTypes damageClass;
 };
+
 struct Weapon
 {
 	char name[20];
@@ -50,12 +51,14 @@ struct Weapon
 	int ToHit;
 	damageTypes damageClass;
 };
+
 struct Armor
 {
 	char name[20];
 	int ArmorClass;
 	damageTypes resistance;
 };
+
 struct Spell
 {
 	char name[20];
@@ -99,6 +102,7 @@ struct Room
 	int EnemyCount;
 	Entity enemyType[10];
 };
+
 struct Player_deets {
 	char name[32];
 	int choice;
@@ -193,6 +197,7 @@ int main()
 		{"Cleric", 125, WeaponList[0], ArmorList[3], SpellList[0], true, false},
 	};
 
+	//Game State Variables
 	bool yourTurn = true;
 	bool lockedIn = true;
 	bool inTheRoom = true;
@@ -300,7 +305,7 @@ int main()
 			playerList.push_back(player);
 			//player = {}; //clear
 		}
-	}//End of lobby loop...
+	}//END OF LOBBY GAME LOOP
 
 	//Tell all players the game has started
 	for (SOCKADDR_IN a : clients)
