@@ -1,8 +1,8 @@
 # C++ Networked Dungeon Team Project
 
-This was an open ended team project for a Networking class at NHTI. 
+This was an open-ended team project for a Networking class at NHTI. Our focus was getting a C++ socket-based networking project up and running for the first time rather than just the game logic itself.
 
-For our project, me and my teammate wanted to try and create a basic text based game using what we had learned that semester about C++ and Sockets. Other teams worked on networked programs of their choosing such as a chat room, or tic-tac-toe for example. We ended up settling on a dungeon crawler type game where you choose your class, and can run in to various types of enemies.
+For our project, I and my teammate wanted to try and create a basic text-based game using what we had learned that semester about C++ and Sockets. Other teams worked on networked programs of their choosing such as a chat room, or tic-tac-toe for example. We ended up settling on a dungeon crawler-type game where you choose your class, and can run into various types of enemies.
 
 Project Team:
 - Connor Lundstedt
