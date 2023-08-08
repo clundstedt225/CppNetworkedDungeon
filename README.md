@@ -19,7 +19,7 @@ Server code (gameplay loop) [can be found here](https://github.com/clundstedt225
 - Programmed using C++
 - Github for Source Control
 
-##	:stopwatch: Things I would refactor if I had more time 
+##	:stopwatch: Things I would refactor with more time
 - Relocate code definitions such as enums to header files
 - Clean up repeated print statements into simpler helper functions
 - Attempt to simplify the game loop flow to reduce the amount of if-else statements for readability
