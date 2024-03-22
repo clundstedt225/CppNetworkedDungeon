@@ -1,6 +1,8 @@
-# C++ Networked Dungeon Team Project
+# 🖥️ C++ Networked Dungeon Team Project
 
 This was an open-ended team project for a Networking class at NHTI. 
+
+A video demo of the project [can be found here](https://conlundstedt.com/cppnetworked.html) on my website with more info.
 
 Our focus (and most of our time) was getting a C++ socket-based networking project up and running for the first time rather than just the game logic itself. Because of this, the code quality is not where I would ideally have liked it to be, but I am proud that we reached our deadline with an understanding of the topics covered. (Given more time I have listed some things I would clean up below)
 
@@ -12,7 +14,7 @@ Project Team:
 
 ## 	:world_map: Project Navigation
 
-Server code (gameplay loop) [can be found here](https://github.com/clundstedt225/CppNetworkedDungeon/blob/main/Lundstedt_Black_Sockets/UDP/serverOutline/Source.cpp).
+Server code (gameplay loop) [can be found here](https://github.com/clundstedt225/CppNetworkedDungeon/blob/main/Lundstedt_Black_Sockets/UDP/serverOutline/Source.cpp) in the Source.cpp file.
 
 ## 	:hammer_and_wrench: Tools & Languages Used
 - Microsoft Visual Studio IDE
